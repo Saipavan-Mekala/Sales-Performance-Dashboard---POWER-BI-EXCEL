@@ -12,8 +12,12 @@ The objective of this project is to analyze sales data to identify key factors i
 # Data Source:
 Dataset obtained from Kaggle.
 
+
 # Tools Used:
 Power BI + Excel
+
+# Dashboard Image:
+![image](https://github.com/user-attachments/assets/44422a56-eda3-4bce-87a6-383406510463)
 
 # Methodology:
 1. <B> Data Preparation </B>: Imported raw data via MS Excel and performed data cleaning and transformations to ensure accuracy.
