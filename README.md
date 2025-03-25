@@ -1,4 +1,4 @@
-# Sales-Performance-Dashboard---POWER-BI+EXCEL
+# Sales-Performance-Dashboard---POWER BI + EXCEL
 
 # Project Title:
 <B> SALES PERFORMANCE DASHBOARD </B>
